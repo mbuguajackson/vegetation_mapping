@@ -1,1 +1,1 @@
-This code enntails making NDVI maps in python
+This code entails making NDVI maps in python
